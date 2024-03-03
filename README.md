@@ -161,8 +161,15 @@ As an Administrator, run the `install.bat` script from the Trendz installation d
     net stop trendz && net start trendz
 ### Access the Trendz Web UI:
     http://localhost:8888/trendz
-
+    
 ## Authentication
 For the first authentication, use Tenant Administrator credentials from your ThingsBoard. Trendz uses ThingsBoard as an authentication service.
 
 Ensure you replace placeholders such as YOUR_LICENSE_SECRET_HERE with actual values.
+
+
+<br>
+<h3 align="left"> Reference </h3>
+• <a href="https://thingsboard.io/docs/trendz/install/docker-windows/">Install Trendz via Docker</a>
+<br>
+• <a href="https://thingsboard.io/docs/trendz/install/windows/">Install Trendz via Windows</a>
